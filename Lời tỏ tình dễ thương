@@ -3,7 +3,6 @@ const CONFIG = {
     introTitle: 'Quỳnh Gaby',
     introDesc: `Nếu anh là nhà thơ anh sẽ viết tặng em những vần thơ cháy bỏng,
     Nếu anh là nhạs sỹ anh sẽ viết tặng em những bản tình ca bất hủ,
-    Nếu anh là lập trình viên anh sẽ viết nên những đoạn mã ngập tràn hương vị tình yêu,
     Và nếu anh có thể anh sẽ làm tất cả vì em.`,
     btnIntro: '^^ahihi đồ ngốc^^',
     title: 'Phải chăng chúng ta chính là định mệnh 🥰',
