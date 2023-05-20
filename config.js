@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
+    titleWeb: "Lời tỏ tình dễ thương",
+    introTitle: 'Quỳnh Gaby',
+    introDesc: `Nếu anh là nhà thơ anh sẽ viết tặng em những vần thơ cháy bỏng,
+    Nếu anh là nhạs sỹ anh sẽ viết tặng em những bản tình ca bất hủ,
+    Nếu anh là lập trình viên anh sẽ viết nên những đoạn mã ngập tràn hương vị tình yêu,
+     Và nếu anh có thể anh sẽ làm tất cả vì em.`,
+    btnIntro: '^^Kính thưa bạn Quỳnh^^',
+    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Làm người yêu anh nha Quỳnh Gaby ',
+    btnYes: 'Dạ anh <33',
+    btnNo: 'Không nha anh :3',
+    question: 'Em có điều gì muốn nói với anh không <3',
+    btnReply: 'Em cũng yêu anh á <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    mess: 'Anh biết mà 🥰. A sẽ luôn thương em 😘😘',
+    messDesc: 'Chúng ta bắt đầu hẹn hò nhé 😘😘.',
+    btnAccept: 'Dạ anh <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
